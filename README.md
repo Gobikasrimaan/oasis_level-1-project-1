@@ -1,14 +1,14 @@
  Oasis Infobyte – Level 1 project 1
  📌 Task: Exploratory Data Analysis on Retail Sales Data
 
-This project is submitted as part of the Level 1 task for the Oasis Infobyte Internship program.
+This project is submitted as part of the Level 1 project for the Oasis Infobyte Internship program.
  
  🧠 Objective:
 To perform Exploratory Data Analysis (EDA) on a retail dataset and uncover patterns in customer behavior, product performance, and overall sales trends
 
  📁 Files Included:
-- `Oasis_Task_1.ipynb` – Google Colab notebook containing all analysis and visualizations.
-- `retail_sales_dataset.csv` – Dataset used for the analysis *(uploaded if allowed)*
+- `Oasis_level 1-project 1.ipynb` – Google Colab notebook containing all analysis and visualizations.
+- `retail_sales_dataset.csv` – Dataset used for the analysis 
 
 📊 Key Insights:
 - Identified top-selling product categories
