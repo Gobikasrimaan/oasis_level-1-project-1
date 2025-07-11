@@ -1,4 +1,4 @@
- Oasis Infobyte – Level 1 Task 1
+ Oasis Infobyte – Level 1 project 1
  📌 Task: Exploratory Data Analysis on Retail Sales Data
 
 This project is submitted as part of the Level 1 task for the Oasis Infobyte Internship program.
